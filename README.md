@@ -9,3 +9,6 @@ Inside the project folder you'll find the full source code and the resources use
 
 ### VR Apartment Scene
 ![apartment](https://user-images.githubusercontent.com/5642644/31514009-4178d6be-af5e-11e7-8a47-da04d1968bc7.PNG)
+
+### VR Maze Experience
+![maze](https://user-images.githubusercontent.com/5642644/31522083-1745e514-af7a-11e7-8083-e536dc73019b.PNG)
