@@ -14,8 +14,8 @@ Carnival is a VR game that simulates a carnival environment where the user can p
 - What to consider when deploying VR apps to different platform
 
 ## Technology Used
-- Unity 3D
-- Google Cardboard SDK
+- Unity 3D 2017.1.0f3
+- Google VR Unity SDK v1.60.0
 
 ## Screenshot
 
