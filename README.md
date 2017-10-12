@@ -1,3 +1,4 @@
+## VR Developer Nanodegree
 A collection of my Virtual Reality projects while working on my VR Nanodegree. This is the master repository in which I have included subfolders of each project. Just select the project that you want to check out.
 
 Inside the project folder you'll find the full source code, resources used, the installer and instructions on how to build the project on your own. Enjoy!
